@@ -1,6 +1,7 @@
 .container{
-	width: 320px;
-	height: 320px;
+	width: 312px;
+	height: 312px;
+	border: 1px solid gray;
 }
 .box{
 	float: left;
